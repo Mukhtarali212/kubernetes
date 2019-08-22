@@ -10,3 +10,4 @@ helm init --service-account tiller
 ```
 
 *Wait for tiller component to be active*
+**
